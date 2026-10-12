@@ -1,2 +1,0 @@
-Student Registration Module 
-Features: Add student name, ID, and email 

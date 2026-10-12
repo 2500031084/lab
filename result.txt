@@ -1,2 +1,0 @@
-Student Result Module 
-Features: Store marks and calculate grades 
